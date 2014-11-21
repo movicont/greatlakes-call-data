@@ -18,7 +18,7 @@ from handle_voronoi_data import Voronoi
 sys.path.append('..')
 import base.csv as csv
 import base.database as database
-
+""""""
 class Point:
 	def __init__(self, x, y):
 		self.x, self.y = x, y
