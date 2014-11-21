@@ -1,0 +1,353 @@
+Country Name|Country Code|IDD
+Afghanistan|93|0
+Albania|355|0
+Algeria|213|0
+American Samoa|684|0
+Andorra|376|0
+Angola|244|0
+Anguilla|1264|11
+Antarctica|672|
+Antigua|1268|11
+Argentina|54|0
+Armenia|374|0
+Aruba|297|0
+Ascension|247|0
+Australia|61|0011
+Australian External Territories|672|0
+Austria|43|0
+Azerbaijan|994|0
+Bahamas|1242|11
+Bahrain|973|0
+Bangladesh|880|0
+Barbados|1246|11
+Barbuda|1268|11
+Belarus|375|8~10
+Belgium|32|0
+Belize|501|0
+Benin|229|0
+Bermuda|1441|11
+Bhutan|975|0
+Bolivia|591|0010
+Bolivia|591|0011
+Bolivia|591|0012
+Bolivia|591|0013
+Bosnia & Herzegovina|387|0
+Botswana|267|0
+Brazil|55|0014
+Brazil|55|0015
+Brazil|55|0021
+Brazil|55|0023
+Brazil|55|0031
+British Virgin Islands|1284|11
+Brunei Darussalam|673|0
+Bulgaria|359|0
+Burkina Faso|226|0
+Burundi|257|0
+Cambodia|855|1
+Cameroon|237|0
+Canada|1403|11
+Canada|1587|11
+Canada|1780|11
+Canada|1825|11
+Canada|1236|11
+Canada|1250|11
+Canada|1604|11
+Canada|1778|11
+Canada|1204|11
+Canada|1431|11
+Canada|1506|11
+Canada|1709|11
+Canada|1902|11
+Canada|1226|11
+Canada|1249|11
+Canada|1289|11
+Canada|1343|11
+Canada|1365|11
+Canada|1416|11
+Canada|1519|11
+Canada|1613|11
+Canada|1647|11
+Canada|1705|11
+Canada|1742|11
+Canada|1807|11
+Canada|1905|11
+Canada|1418|11
+Canada|1438|11
+Canada|1450|11
+Canada|1514|11
+Canada|1579|11
+Canada|1581|11
+Canada|1819|11
+Canada|1873|11
+Canada|1306|11
+Canada|1867|11
+Cape Verde Islands|238|0
+Cayman Islands|1345|11
+Central African Republic|236|0
+Chad|235|15
+Chatham Island (New Zealand)|64|0
+Chile|56|0
+China|86|0
+Christmas Island|618|0011
+Cocos-Keeling Islands|61|11
+Colombia|57|005     
+Colombia|57|007
+Colombia|57|009
+Colombia|57|555
+Colombia|57|999
+Comoros|269|0
+Republic of the Congo|242|0
+Democratic Republic of the Congo|243|0
+Cook Islands|682|0
+Costa Rica|506|0
+Cote d'Ivoire|225|0
+Croatia|385|0
+Cuba|53|119
+Cuba (Guantanamo Bay)|5399|0
+Curaçao|599|0
+Cyprus|357|0
+Czech Republic|420|00
+Czech Republic|420|95200
+Denmark|45|0
+Diego Garcia|246|0
+Djibouti|253|0
+Dominica|1767|11
+Dominican Republic|1809|11
+East Timor|670|0
+Easter Island|56|0
+Ecuador|593|0
+Egypt|20|0
+El Salvador|503|00
+El Salvador|503|14400
+Ellipso (Mobile Satellite service)|8812, 8813|0
+EMSAT (Mobile Satellite service)|88213|
+Equatorial Guinea|240|0
+Eritrea|291|0
+Estonia|372|0
+Ethiopia|251|0
+Falkland Islands|500|0
+Faroe Islands|298|0
+Fiji Islands|679|0
+Finland|358|00, 990, 994, 999
+France|33|00
+France|33|40
+France|33|50
+France|33|70
+France|33|90
+French Antilles|596|0
+French Guiana|594|0
+French Polynesia|689|0
+Gabonese Republic|241|0
+Gambia|220|0
+Georgia|995|8~10
+Germany|49|0
+Ghana|233|0
+Gibraltar|350|0
+Global Mobile Satellite System (GMSS)|881|0
+Globalstar (Mobile Satellite Service)|8818, 8819|0
+Greece|30|0
+Greenland|299|0
+Grenada|1473|11
+Guadeloupe|590|0
+Guam|1671|11
+Guantanamo Bay|5399|0
+Guatemala|502|00
+Guatemala|502|13000
+Guatemala|502|14700
+GuineaBissau|245|0
+Guinea|224|0
+Guyana|592|1
+Haiti|509|0
+Honduras|504|0
+Hong Kong|852|001
+Hong Kong|852|0080
+Hong Kong|852|009
+Hungary|36|0
+ICO Global (Mobile Satellite Service)|8810, 8811|0
+Iceland|354|0
+India|91|0
+Indonesia|62|1008
+Inmarsat (Atlantic Ocean  East)|871|0
+Inmarsat (Atlantic Ocean  West)|874|0
+Inmarsat (Indian Ocean)|873|0
+Inmarsat (Pacific Ocean)|872|0
+Inmarsat SNAC|870|0
+International Freephone Service|800|
+International Shared Cost Service (ISCS)|808|
+Iran|98|0
+Iraq|964|0
+Ireland|353|00
+Ireland|353|048
+Iridium (Mobile Satellite service)|8816, 8817|0
+Israel|972|00
+Israel|972|012
+Israel|972|013
+Israel|972|014
+Italy|39|0
+Jamaica|1876|11
+Japan|81|001
+Japan|81|010
+Japan|81|0061
+Japan|81|0041
+Jordan|962|0
+Kazakhstan|7|8~10
+Kenya|254|000
+Kenya|254|006
+Kenya|254|007
+Kiribati|686|0
+North Korea|850|0
+South Korea|82|001
+South Korea|82|002
+South Korea|82|00700
+Kuwait|965|0
+Kyrgyz Republic|996|0
+Laos|856|0
+Latvia|371|0
+Lebanon|961|00
+Lesotho|266|0
+Liberia|231|0
+Libya|218|0
+Liechtenstein|423|0
+Lithuania|370|0
+Luxembourg|352|0
+Macao|853|0
+Macedonia|389|0
+Madagascar|261|0
+Malawi|265|0
+Malaysia|60|0
+Maldives|960|0
+Mali Republic|223|0
+Malta|356|0
+Marshall Islands|692|11
+Martinique|596|0
+Mauritania|222|0
+Mauritius|230|0
+Mayotte Island|269|0
+Mexico|52|0
+Micronesia|691|11
+Midway Island|1808|11
+Moldova|373|0
+Monaco|377|0
+Mongolia|976|1
+Montserrat|1664|11
+Morocco|212|0
+Mozambique|258|0
+Myanmar|95|0
+Namibia|264|0
+Nauru|674|0
+Nepal|977|0
+Netherlands|31|0
+Netherlands Antilles|599|0
+Nevis|1869|11
+New Caledonia|687|0
+New Zealand|64|0
+Nicaragua|505|0
+Niger|227|0
+Nigeria|234|9
+Niue|683|0
+Norfolk Island|672|0
+Northern Marianas Islands|1670|11
+Norway|47|0
+Oman|968|0
+Pakistan|92|0
+Palau|680|11
+Palestinian Settlements|970|0
+Panama|507|00
+Panama|507|08800
+Panama|507|05500
+Papua New Guinea|675|5
+Paraguay|595|2
+Peru|51|0
+Philippines|63|0
+Poland|48|0 0
+Portugal|351|00
+Portugal|351|882
+Puerto Rico|1787|11
+Puerto Rico|1939|11
+Qatar|974|0
+Réunion Island|262|0
+Romania|40|0
+Russia|7|8~10
+Russia|7|00
+Rwanda|250|0
+St. Helena|290|0
+St. Kitts/Nevis|1869|11
+St. Lucia|1758|11
+St. Pierre & Miquelon|508|0
+St. Vincent & Grenadines|1784|11
+San Marino|378|0
+São Tomé and Principe|239|0
+Saudi Arabia|966|0
+Senegal|221|0
+ Serbia and Montenegro|381|99
+Seychelles Republic|248|0
+Sierra Leone|232|0
+Singapore|65|001
+Singapore|65|002
+Singapore|65|008
+Singapore|65|012
+Singapore|65|013
+Singapore|65|018
+Singapore|65|019
+Slovak Republic|421|0
+Slovenia|386|0
+Solomon Islands|677|0
+Somali Democratic Republic|252|0
+South Africa|27|9
+Spain|34|0
+Sri Lanka|94|0
+Sudan|249|0
+Suriname|597|0
+Swaziland|268|0
+Sweden|46|0
+Switzerland|41|0
+Syria|963|00
+Taiwan|886|2
+Tajikistan|992|8~10
+Tanzania|255|000
+Tanzania|255|005
+Tanzania|255|006
+Thailand|66|001
+Thuraya (Mobile Satellite service)|88216|
+Togolese Republic|228|0
+Tokelau|690|0
+Tonga Islands|676|0
+Trinidad & Tobago|1868|11
+Tunisia|216|0
+Turkey|90|0
+Turkmenistan|993|8~10
+Turks and Caicos Islands|1649|11
+Tuvalu|688|0
+Uganda|256|000
+Uganda|256|005
+Uganda|256|007
+Ukraine|380|8~10
+United Arab Emirates|971|0
+United Kingdom|44|00 
+United States of America|1|11
+US Virgin Islands|1340|11
+Universal Personal Telecommunications (UPT)|878|
+Uruguay|598|0
+Uzbekistan|998|8~10
+Vanuatu|678|0
+Vatican City|39|0
+Vatican City|379|0
+Venezuela|58|00
+Venezuela|58|01020
+Venezuela|58|01070
+Venezuela|58|01100
+Venezuela|58|01110
+Venezuela|58|01140
+Venezuela|58|01190
+Venezuela|58|01230
+Venezuela|58|01500
+Venezuela|58|01330
+Venezuela|58|01990
+Vietnam|84|0
+Wake Island|808|0
+Wallis and Futuna Islands|681|19
+Western Samoa|685|0
+Yemen|967|0
+Zambia|260|0
+Zanzibar|255|0
+Zimbabwe|263|0
